@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Alicja",
+      "lastName": "Dąbrowska",
+      "address": "ul.Słonecznikowa 13/4",
+      "age": 31
+    },
+    {
+      "firstName": "Andrzej",
+      "lastName": "Kowalski",
+      "address": "ul. Zimowa 7",
+      "age": "43",
+      "userId": 7
+    },
+    {
+      "firstName": "Wojciech",
+      "lastName": "Pech",
+      "address": "ul. gen. Andersa 24/5",
+      "age": "65",
+      "userId": 8
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Niska",
+      "address": "ul. Armii Krajowej 8/16",
+      "age": "43",
+      "userId": 9
+    }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Lexi",
+      "birthdate": "2013-04-01",
+      "userId": 1
+    },
+    {
+      "name": "Luna",
+      "birthdate": "2019-05-16",
+      "id": 8,
+      "userId" : 8
+    },
+    {
+      "name": "Rex",
+      "birthdate": "2017-06-12",
+      "id": 9,
+      "userId": 9
+    },
+    {
+      "name": "Sara",
+      "birthdate": "2014-01-07",
+      "id": 10,
+      "userId": 9
+    },
+    {
+      "name": "Toczka",
+      "birthdate": "2020-04-01",
+      "id": 11,
+      "userId": 1
+    },
+    {
+      "name": "Axa",
+      "birthdate": "2017-09-15",
+      "id": 12,
+      "userId": 7
+    },
+    {
+      "name": "Oscar",
+      "birthdate": "2016-05-23",
+      "id": 13,
+      "userId": 8
+    }
+  ]
+}
